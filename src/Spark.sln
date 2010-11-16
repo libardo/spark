@@ -52,6 +52,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Castle.MonoRail.Pdf", "Cast
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Castle.MonoRail.Pdf.Tests", "Castle.Monorail.Pdf.Tests\Castle.MonoRail.Pdf.Tests.csproj", "{0FEC123E-DFD8-4DB0-9FC7-6C2EF2897FAD}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AspNet WebForms", "AspNet WebForms", "{99C1CC67-36F4-425C-AEED-E2A60171CE86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spark.Web.Forms", "Spark.Web.Forms\Spark.Web.Forms.csproj", "{5544819E-9DEA-4556-B65D-90A79119D5CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -134,6 +138,10 @@ Global
 		{0FEC123E-DFD8-4DB0-9FC7-6C2EF2897FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FEC123E-DFD8-4DB0-9FC7-6C2EF2897FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FEC123E-DFD8-4DB0-9FC7-6C2EF2897FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5544819E-9DEA-4556-B65D-90A79119D5CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5544819E-9DEA-4556-B65D-90A79119D5CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5544819E-9DEA-4556-B65D-90A79119D5CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5544819E-9DEA-4556-B65D-90A79119D5CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -158,5 +166,6 @@ Global
 		{D5796359-FF68-4444-809D-C7A8DAA92E41} = {CE293579-4889-4D6D-A1A0-BBBE8CBB9343}
 		{0FEC123E-DFD8-4DB0-9FC7-6C2EF2897FAD} = {CE293579-4889-4D6D-A1A0-BBBE8CBB9343}
 		{4E7C0DEF-11F1-44C6-8CE0-198CD8FB8AB9} = {8D3C4016-6843-4266-BA52-61D0A2C78880}
+		{5544819E-9DEA-4556-B65D-90A79119D5CD} = {99C1CC67-36F4-425C-AEED-E2A60171CE86}
 	EndGlobalSection
 EndGlobal
